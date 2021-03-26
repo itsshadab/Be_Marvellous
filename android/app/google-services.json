@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "598074113309",
+    "project_id": "be-marvellous-21a2a",
+    "storage_bucket": "be-marvellous-21a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598074113309:android:accc3d92ca787da4cb35f4",
+        "android_client_info": {
+          "package_name": "com.mars.be_marvellous"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598074113309-12l91aq04e20b16tdnne2sv01euutrtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mars.be_marvellous",
+            "certificate_hash": "32dab306fd6e214b5f8017da2ccb3f659fe7733b"
+          }
+        },
+        {
+          "client_id": "598074113309-214tl9vfifcqn61hkibovmn15hidploq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDINuwxdh0VF3gu1VzHpsoh7jsITB75kl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598074113309-214tl9vfifcqn61hkibovmn15hidploq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
